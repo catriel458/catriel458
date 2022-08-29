@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @catriel458
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web development and Data Science (Python ,R )
 - 💞️ I’m looking to collaborate on Sicos informatica and Argentine Ministry of Health
 - 📫 How to reach me with my mail adress: catrielcabrera97@gmail.com or my telephone number: 2213557519
 
