@@ -1,4 +1,4 @@
-¡Hola! Soy un Desarrollador Full Stack 🚀
+¡Hola! Soy Catriel Cabrera Desarrollador Full Stack 🚀
 
 Soy un Desarrollador Full Stack con más de 3 años de experiencia, especializado en Node.js y Python. Además, soy Analista de Sistemas y tengo un fuerte enfoque en la innovación y la creación de soluciones tecnológicas a medida. 💻
 
