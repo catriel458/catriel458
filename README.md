@@ -26,6 +26,7 @@ Con una sólida base en Big Data, me apasiona crear aplicaciones interactivas, d
 ¡Conéctemos y hagamos crecer tu proyecto! 🌱
 
 Mail personal: catrielcabrera97@gmail.com
+
 Mail profesional: codefalcon727@gmail.com
 
 <!---
