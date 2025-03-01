@@ -1,6 +1,8 @@
 ¡Hola! Soy un Desarrollador Full Stack 🚀
 
 Soy un Desarrollador Full Stack con más de 3 años de experiencia, especializado en Node.js y Python. Además, soy Analista de Sistemas y tengo un fuerte enfoque en la innovación y la creación de soluciones tecnológicas a medida. 💻
+
+
 📚 Habilidades:
 
     Lenguajes: Python, JavaScript, SQL, PHP, R
@@ -11,6 +13,8 @@ Soy un Desarrollador Full Stack con más de 3 años de experiencia, especializad
     Big Data: Conocimientos en herramientas y tecnologías de Big Data
 
 Con una sólida base en Big Data, me apasiona crear aplicaciones interactivas, dinámicas y escalables que resuelvan problemas complejos y mejoren la experiencia del usuario. 💡
+
+
 📈 Mi Experiencia
 
     Desarrollo de aplicaciones web completas y escalables.
