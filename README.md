@@ -7,7 +7,7 @@ Soy un Desarrollador Full Stack con más de 3 años de experiencia, especializad
 
     Lenguajes: Python, JavaScript, SQL, PHP, R
     Frameworks: Django, React, Node.js
-    Bases de Datos: PostgreSQL, MySQL
+    Bases de Datos: PostgreSQL, MySQL, Sqlite, Firebase, JSON
     Herramientas de Desarrollo: Git, Google App Script, Vite
     Frontend: HTML, CSS, Bootstrap, Tailwind
     Big Data: Conocimientos en herramientas y tecnologías de Big Data
