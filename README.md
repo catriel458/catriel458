@@ -17,7 +17,7 @@ Soy un **Desarrollador Full Stack** con más de **3 años de experiencia**, espe
 - 🔭 Actualmente trabajando en **sistemas críticos del Registro de la Propiedad**
 - 🌱 Experto en **Big Data** con experiencia en millones de registros ciudadanos
 - 👯 Ex-Coordinador de Sistemas en **Ministerio de Salud** de Buenos Aires
-- 💬 Pregúntame sobre **RStudio, Looker, Natural/Adabas, Full Stack Development**
+- 💬 Pregúntame sobre **RStudio, Looker, TypeScript, Natural/Adabas, Full Stack Development**
 - 🎓 **Formador técnico** con background en pedagogía
 - ⚡ Dato curioso: **Soy un solucionador de problemas nato con impacto social**
 
@@ -28,6 +28,7 @@ Soy un **Desarrollador Full Stack** con más de **3 años de experiencia**, espe
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
